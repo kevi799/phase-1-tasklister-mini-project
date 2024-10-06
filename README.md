@@ -11,3 +11,4 @@ A simple and interactive task management application that allows users to add, d
 - HTML5
 - CSS3
 - JavaScript ES6
+- To see the simple task lister visit  https://kevi799.github.io/phase-1-tasklister-mini-project/
